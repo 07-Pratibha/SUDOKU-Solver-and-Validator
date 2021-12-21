@@ -2,7 +2,7 @@
 //  main.cpp
 //  Sudoku Solver And Validator
 //
-//  Created by Ameesha Dabas on 03/11/20.
+//  Created by Pratibha Gupta on 03/11/2021.
 //
 
 #include<iostream>
